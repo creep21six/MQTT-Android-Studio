@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mqtt</string>
+    <string name="noCon">No Internet Connection. Have you connected the Internet?</string>
+    <string name="noHub">Hub not found. Have you connected your hub?</string>
+    <string name="set">Settings</string>
+    <string name="back">Back</string>
+    <string name="wifiSet">WiFi Settings</string>
+    <string name="brokerSet">Broker Settings</string>
+    <string name="brokerIPTitle">Current Broker IP:</string>
+    <string name="brokerIP">192.168.0.0</string>
+    <string name="errorCodeTitle">Error Code:</string>
+    <string name= "errorCode">None</string>
+    <string name="newIP">Your new broker IP: (Leave empty if you changed your mind)</string>
+    <string name="newroom">New Room</string>
+    <string name="wifiCheck">I\'m set, let go!</string>
+    <string name="greetings">Welcome back!</string>
+    <string name="room1">Test Room</string>
+    <string name="sck">Socket</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="sck1">Socket 1</string>
+    <string name="curTitle">Current Consumption (A):</string>
+    <string name="cur1">0</string>
+</resources>
